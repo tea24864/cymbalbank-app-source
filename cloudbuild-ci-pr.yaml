@@ -17,5 +17,3 @@ availableSecrets:
   - versionName: projects/${PROJECT_ID}/secrets/github-username/versions/latest
     env: 'GITHUB_USERNAME'
 timeout: '1200s' #timeout - 20 minutes
-options:
-  machineType: 'N1_HIGHCPU_8'
