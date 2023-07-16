@@ -18,4 +18,4 @@ availableSecrets:
     env: 'GITHUB_USERNAME'
 timeout: '1200s' #timeout - 20 minutes
 options:
-  machineType: 'E2_HIGHCPU_8'
+  machineType: 'N1_HIGHCPU_8'
